@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_admin_panel_settings_24
+drawable baseline_arrow_back
+drawable baseline_assignment_ind_24
+drawable baseline_camera
+drawable baseline_device_thermostat_24
+drawable baseline_flashlight_off_24
+drawable baseline_flashlight_on_24
+drawable baseline_no_cell_24
+drawable baseline_panorama_vertical_24
+drawable baseline_person_24
+drawable baseline_person_pin_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable jack
+drawable keith
+drawable madi
+drawable rhina
+drawable ryle
+drawable topher
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.CapstoneApp
+xml backup_rules
+xml data_extraction_rules

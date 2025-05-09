@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_arrow_back.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_arrow_back.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.capstoneapp.app-pngs-46:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_rhina.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/rhina.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_panorama_vertical_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_panorama_vertical_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_jack.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/jack.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_assignment_ind_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_assignment_ind_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_admin_panel_settings_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_admin_panel_settings_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_ryle.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/ryle.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_person_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_keith.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/keith.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_madi.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/madi.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_camera.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_camera.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/xml_backup_rules.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_topher.jpg.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/topher.jpg"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_device_thermostat_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_device_thermostat_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_no_cell_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_no_cell_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_person_pin_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_flashlight_off_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_flashlight_off_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/drawable_baseline_flashlight_on_24.xml.flat",
+        "source": "com.capstoneapp.app-main-52:/drawable/baseline_flashlight_on_24.xml"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.capstoneapp.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.capstoneapp.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "348012470673",
+    "firebase_url": "https://elderlyrpi4-bdbaa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "elderlyrpi4-bdbaa",
+    "storage_bucket": "elderlyrpi4-bdbaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348012470673:android:1229fbe29a7929d534ba30",
+        "android_client_info": {
+          "package_name": "Track.Care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIdHH0V4hRUFd7079Wm_6fJHoK5S8i3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348012470673:android:3a9cc90e44c58e2234ba30",
+        "android_client_info": {
+          "package_name": "com.capstoneapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCIdHH0V4hRUFd7079Wm_6fJHoK5S8i3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
